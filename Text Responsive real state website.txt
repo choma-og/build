@@ -133,7 +133,7 @@ https://www.instagram.com/
 https://www.pinterest.com/
 
 .footer__copy
-&#169; Bedimcode. All rigths reserved
+&#169; choma. All rigths reserved
 
 .footer__privacy
 Terms & Agreements
